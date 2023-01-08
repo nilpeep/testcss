@@ -1,0 +1,25 @@
+
+.col { display: inline-block; width: 30%; padding: 16px; margin: 8px;}
+.icon-box h3{
+    color: blueviolet;
+    font-size: 26px;
+}
+
+.icon-box i {
+    color: #fc997c;
+}
+#how-it-works { text-align: center; padding: 10px;}
+#how-it-works h2 {
+    color: blueviolet;
+    font-size: 30px;
+    font-weight: 600;
+}
+#showcase { color: blueviolet;}
+body {
+    font-family: 'Anybody', cursive;
+}
+.navigator {
+    background-color: #fc997c
+    
+}
+
